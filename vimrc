@@ -12,7 +12,6 @@ Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'Yggdroot/indentLine'
-Plug 'vim-scripts/Ambient-Color-Scheme'
 call plug#end()
 
 set encoding=UTF-8
