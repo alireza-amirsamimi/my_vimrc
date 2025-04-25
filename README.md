@@ -22,7 +22,7 @@ I use [VimPlug]([url](https://github.com/junegunn/vim-plug)). Install it with th
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 ### Copy my vimrc file
-Copy my vimrc file to ~/.vimrc.
+Clone this repository and copy my [vimrc]([url](https://github.com/alireza-amirsamimi/my_vimrc/blob/master/vimrc)) file to ~/.vimrc.
 close the file.
 
 ### Reopen vimrc
