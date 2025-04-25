@@ -61,38 +61,26 @@ Copy it to:
 ```
 
 ### Enjoy!
-Press F9 for opening NerdTree.
-Press t or T in NerdTree for opening files in new tab.
-Press F3 and F4 for switching between tabs.
-Press F2 for paste mode.
-Press F8 for check spelling.
-Press F6 and F7 for commenting and uncommenting code lines.
+Press F9 for opening NerdTree.  
+Press t or T in NerdTree for opening files in new tab.  
+Press F3 and F4 for switching between tabs.  
+Press F2 for paste mode.  
+Press F8 for check spelling.  
+Press F6 and F7 for commenting and uncommenting code lines.  
 Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp/) for more information.
 
 ### Acknowledgements
 
-[vim-synthwave84](https://github.com/artanikin/vim-synthwave84)
-
-[tagbar](https://github.com/preservim/tagbar)
-
-[vim-airline](https://github.com/vim-airline/vim-airline)
-
-[vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)
-
-[NerdTree](https://github.com/preservim/nerdtree)
-
-[vim_current_word](https://github.com/dominikduda/vim_current_word)
-
-[vim-lsp](https://github.com/prabirshrestha/vim-lsp)
-
-[vim-lsp-settings](https://github.com/mattn/vim-lsp-settings)
-
-[asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim)
-
-[asyncomplete-lsp.vim](https://github.com/prabirshrestha/asyncomplete-lsp.vim)
-
-[vim-devicons](https://github.com/ryanoasis/vim-devicons)
-
-[vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)
-
+[vim-synthwave84](https://github.com/artanikin/vim-synthwave84)  
+[tagbar](https://github.com/preservim/tagbar)  
+[vim-airline](https://github.com/vim-airline/vim-airline)  
+[vim-airline-themes](https://github.com/vim-airline/vim-airline-themes)  
+[NerdTree](https://github.com/preservim/nerdtree)  
+[vim_current_word](https://github.com/dominikduda/vim_current_word)  
+[vim-lsp](https://github.com/prabirshrestha/vim-lsp)  
+[vim-lsp-settings](https://github.com/mattn/vim-lsp-settings)  
+[asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim)  
+[asyncomplete-lsp.vim](https://github.com/prabirshrestha/asyncomplete-lsp.vim)  
+[vim-devicons](https://github.com/ryanoasis/vim-devicons)  
+[vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)  
 [indentLine](https://github.com/Yggdroot/indentLine)
