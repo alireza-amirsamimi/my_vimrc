@@ -16,7 +16,7 @@ sudo pacman -S vim python-lsp-server python-pycodestyle vim-jedi
 Install `python-pyflakes` if you want pep8, ...
 
 ### Install VimPlug
-I use [VimPlug]([url](https://github.com/junegunn/vim-plug)). Install it with this command.
+I use [VimPlug](https://github.com/junegunn/vim-plug). Install it with this command.
 
 ```
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
@@ -69,8 +69,9 @@ Press F8 for check spelling.
 Press F6 and F7 for commenting and uncommenting code lines.  
 Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp/) for more information.
 
-### Acknowledgements
-
+### Acknowledgements  
+[Vim](https://github.com/vim/vim)  
+[VimPlug](https://github.com/junegunn/vim-plug)  
 [vim-synthwave84](https://github.com/artanikin/vim-synthwave84)  
 [tagbar](https://github.com/preservim/tagbar)  
 [vim-airline](https://github.com/vim-airline/vim-airline)  
