@@ -1,5 +1,5 @@
 # my vimrc
-I'm sharing my vimrc here. It's not something special or complicated, but it might be useful to someone.
+ّI'm [Vim]([url](https://github.com/vim/vim)) user like many people and I'm sharing my vimrc here. It's not something special or complicated(I am not a fan of complexity.), but it might be useful to someone.
 
 ![Screenshot_2025-04-25_23-00-35](https://github.com/user-attachments/assets/29afd974-c7e6-4750-8f12-eb32efcc0c86)
 
@@ -32,7 +32,7 @@ vim ~/.vimrc
 ```
 
 ### Run VimPlug
-Run this vim command. Press `ESC` key. Press `:` key. Write this command in vim.
+Run this vim command. You know how to do it, don't you? Press `ESC` key. Press `:` key. Write this command in vim and press `Enter`.
 
 ```
 :PlugInstall
@@ -44,7 +44,7 @@ Once the plugins are installed, exit by typing the following command.
 :q
 ```
 ### Pycodestyle
-It's my pycodstyle file config.
+It's my pycodstyle file config. Use it if it helps you.
 
 ```
 [pycodestyle]
