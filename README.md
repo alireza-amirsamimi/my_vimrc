@@ -1,7 +1,7 @@
 # my vimrc
 ّI'm [Vim](https://github.com/vim/vim) user like many people and I'm sharing my vimrc here. It's not something special or complicated(I am not a fan of complexity), but it might be useful to someone.
 
-![Screenshot_2025-04-25_23-00-35](https://github.com/user-attachments/assets/29afd974-c7e6-4750-8f12-eb32efcc0c86)
+![Screenshot_2025-04-25_23-40-49](https://github.com/user-attachments/assets/f62a4e45-f7eb-42ae-bc27-2062304a0316)
 
 
 
