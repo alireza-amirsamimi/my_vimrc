@@ -1,5 +1,5 @@
 # my vimrc
-ّI'm [Vim]([url](https://github.com/vim/vim)) user like many people and I'm sharing my vimrc here. It's not something special or complicated(I am not a fan of complexity.), but it might be useful to someone.
+ّI'm [Vim]([url](https://github.com/vim/vim)) user like many people and I'm sharing my vimrc here. It's not something special or complicated(I am not a fan of complexity), but it might be useful to someone.
 
 ![Screenshot_2025-04-25_23-00-35](https://github.com/user-attachments/assets/29afd974-c7e6-4750-8f12-eb32efcc0c86)
 
@@ -68,3 +68,18 @@ Press F2 for paste mode.
 Press F8 for check spelling.
 Press F6 and F7 for commenting and uncommenting code lines.
 Checkout [NerdTree]([url](https://github.com/preservim/nerdtree)) and [Vim-Lsp]([url](https://github.com/prabirshrestha/vim-lsp/)) for more information.
+
+### Acknowledgements
+[vim-synthwave84]([url](https://github.com/artanikin/vim-synthwave84))
+[tagbar]([url](https://github.com/preservim/tagbar))
+[vim-airline]([url](https://github.com/vim-airline/vim-airline))
+[vim-airline-themes]([url](https://github.com/vim-airline/vim-airline-themes))
+[NerdTree]([url](https://github.com/preservim/nerdtree))
+[vim_current_word]([url](https://github.com/dominikduda/vim_current_word))
+[vim-lsp]([url](https://github.com/prabirshrestha/vim-lsp))
+[vim-lsp-settings]([url](https://github.com/mattn/vim-lsp-settings))
+[asyncomplete.vim]([url](https://github.com/prabirshrestha/asyncomplete.vim))
+[asyncomplete-lsp.vim]([url](https://github.com/prabirshrestha/asyncomplete-lsp.vim))
+[vim-devicons]([url](https://github.com/ryanoasis/vim-devicons))
+[vim-nerdtree-syntax-highlight]([url](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight))
+[indentLine]([url](https://github.com/Yggdroot/indentLine))
