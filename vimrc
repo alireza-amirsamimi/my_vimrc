@@ -67,7 +67,7 @@ set termguicolors
 set background=dark
 
 " air-line
-let g:airline_theme='minimalist'
+let g:airline_theme='synthwave84'
 let g:airline_powerline_fonts = 1
 
 if !exists('g:airline_symbols')
@@ -181,3 +181,7 @@ let g:indentLine_char_list = ['|', '¦', '┆', '┊']
 if has("autocmd")
   au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | execute "normal! g`\"" | endif
 endif
+
+" changing synthwave84 pmenu and PmenuSel color
+hi Pmenu 		guifg=#000000 ctermfg=15 guibg=#3DE163 ctermbg=239
+hi PmenuSel 	guifg=#000000 ctermfg=0 guibg=#f07746 ctermbg=209
