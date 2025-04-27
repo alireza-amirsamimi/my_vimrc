@@ -9,7 +9,7 @@
 I am ArchLinux user and I usually write code in Python language.
 
 ```
-sudo pacman -S vim python-lsp-server python-pycodestyle vim-jedi
+sudo pacman -S vim python-lsp-server python-pycodestyle ctags vim-jedi
 
 ```
 
