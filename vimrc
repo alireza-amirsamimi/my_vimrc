@@ -185,3 +185,11 @@ endif
 " changing synthwave84 pmenu and PmenuSel color
 hi Pmenu 		guifg=#000000 ctermfg=15 guibg=#3DE163 ctermbg=239
 hi PmenuSel 	guifg=#000000 ctermfg=0 guibg=#f07746 ctermbg=209
+
+" change the cursor between normal and insert modes
+let &t_SI.="\e[5 q" "SI = INSERT mode
+let &t_SR.="\e[4 q" "SR = REPLACE mode
+let &t_EI.="\e[1 q" "EI = NORMAL mode (ELSE)
+set ttimeout
+set ttimeoutlen=1
+set ttyfast
