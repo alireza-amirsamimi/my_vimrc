@@ -1,7 +1,14 @@
 # my vimrc
-ّI'm [Vim](https://github.com/vim/vim) user like many people and I'm sharing my vimrc here. It's not something special or complicated(I am not a fan of complexity), but it might be useful to someone.
+ّI'm [Vim](https://github.com/vim/vim) user like many people and I'm sharing my vimrc here. It's not something special or complicated(I am not a fan of complexity), but it might be useful to someone.  
 
-![image](https://github.com/user-attachments/assets/4c24994c-5921-4d79-a74b-25f1cf3d0890)
+### Dark color scheme:  
+
+![image](https://github.com/user-attachments/assets/4c24994c-5921-4d79-a74b-25f1cf3d0890)  
+
+
+### Light color scheme:  
+
+![Screenshot_2025-07-03_00-44-03](https://github.com/user-attachments/assets/8c1dc9de-e6a4-4310-934d-f5ce25dd32d5)  
 
 
 
@@ -67,9 +74,29 @@ Press F3 and F4 for switching between tabs.
 Press F2 for paste mode.  
 Press F8 for check spelling.  
 Press F6 and F7 for commenting and uncommenting code lines.  
-Press F10 for showing popdef window.
+Press F10 for showing popdef window.  
 Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp/) for more information.
 
+### Light and dark color scheme
+By default, the settings are for a dark color scheme, but if you prefer a light color scheme, uncomment these lines:
+```
+set background=light
+colorscheme PaperColor
+let g:airline_theme='papercolor'
+
+```
+And comment or delete these lines:
+
+```
+"colorscheme synthwave84
+set termguicolors
+set background=dark
+
+" air-line
+let g:airline_theme='synthwave84'
+let g:airline_powerline_fonts = 1
+
+```
 ### Acknowledgements  
 [Vim](https://github.com/vim/vim)  
 [VimPlug](https://github.com/junegunn/vim-plug)  
@@ -85,5 +112,6 @@ Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https:/
 [asyncomplete-lsp.vim](https://github.com/prabirshrestha/asyncomplete-lsp.vim)  
 [vim-devicons](https://github.com/ryanoasis/vim-devicons)  
 [vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)  
-[indentLine](https://github.com/Yggdroot/indentLine)
-[popdef](https://github.com/teppey/popdef)
+[indentLine](https://github.com/Yggdroot/indentLine)  
+[popdef](https://github.com/teppey/popdef)  
+[papercolor-theme](https://github.com/NLKNguyen/papercolor-theme)
