@@ -67,6 +67,7 @@ Press F3 and F4 for switching between tabs.
 Press F2 for paste mode.  
 Press F8 for check spelling.  
 Press F6 and F7 for commenting and uncommenting code lines.  
+Press F10 for showing popdef window.
 Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp/) for more information.
 
 ### Acknowledgements  
@@ -85,3 +86,4 @@ Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https:/
 [vim-devicons](https://github.com/ryanoasis/vim-devicons)  
 [vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)  
 [indentLine](https://github.com/Yggdroot/indentLine)
+[popdef](https://github.com/teppey/popdef)

@@ -12,6 +12,7 @@ Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'Yggdroot/indentLine'
+Plug 'teppey/popdef'
 call plug#end()
 
 set encoding=UTF-8
@@ -193,3 +194,7 @@ let &t_EI.="\e[1 q" "EI = NORMAL mode (ELSE)
 set ttimeout
 set ttimeoutlen=1
 set ttyfast
+
+" F10 for popdef
+nmap <F10> :PopDef<CR>
+
