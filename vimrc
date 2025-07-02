@@ -12,6 +12,7 @@ Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'Yggdroot/indentLine'
+Plug 'NLKNguyen/papercolor-theme'
 Plug 'teppey/popdef'
 call plug#end()
 
@@ -70,6 +71,13 @@ set background=dark
 " air-line
 let g:airline_theme='synthwave84'
 let g:airline_powerline_fonts = 1
+
+" colorscheme papercolor
+"set background=light
+"colorscheme PaperColor
+"let g:airline_theme='papercolor'
+set laststatus=2
+
 
 if !exists('g:airline_symbols')
     let g:airline_symbols = {}
