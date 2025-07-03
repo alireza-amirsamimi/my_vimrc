@@ -8,7 +8,7 @@
 
 ### Light color scheme:  
 
-![Screenshot_2025-07-03_00-44-03](https://github.com/user-attachments/assets/8c1dc9de-e6a4-4310-934d-f5ce25dd32d5)  
+![Screenshot_2025-07-03_00-44-03](https://github.com/user-attachments/assets/ba760931-e098-4c24-a10c-a2cca52e2738)
 
 
 
@@ -66,17 +66,6 @@ Copy it to:
 ```
 ~/.config/pycodestyle
 ```
-
-### Enjoy!
-Press F9 for opening NerdTree.  
-Press t or T in NerdTree for opening files in new tab.  
-Press F3 and F4 for switching between tabs.  
-Press F2 for paste mode.  
-Press F8 for check spelling.  
-Press F6 and F7 for commenting and uncommenting code lines.  
-Press F10 for showing popdef window.  
-Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp/) for more information.
-
 ### Light and dark color scheme
 By default, the settings are for a dark color scheme, but if you prefer a light color scheme, uncomment these lines:
 ```
@@ -97,6 +86,17 @@ let g:airline_theme='synthwave84'
 let g:airline_powerline_fonts = 1
 
 ```
+### Enjoy!
+Press F9 for opening NerdTree.  
+Press t or T in NerdTree for opening files in new tab.  
+Press F3 and F4 for switching between tabs.  
+Press F2 for paste mode.  
+Press F8 for check spelling.  
+Press F6 and F7 for commenting and uncommenting code lines.  
+Press F10 for showing popdef window.  
+Checkout [NerdTree](https://github.com/preservim/nerdtree) and [Vim-Lsp](https://github.com/prabirshrestha/vim-lsp/) for more information.
+
+
 ### Acknowledgements  
 [Vim](https://github.com/vim/vim)  
 [VimPlug](https://github.com/junegunn/vim-plug)  
