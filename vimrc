@@ -83,7 +83,7 @@ if !exists('g:airline_symbols')
     let g:airline_symbols = {}
 endif
 let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#left_sep = '▶'
+let g:aitline#extensions#tabline#left_sep = ''
 let g:airline#extensions#tabline#left_alt_sep = '|'
 
 " unicode symbols
